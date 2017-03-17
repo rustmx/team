@@ -8,4 +8,4 @@ Si deseas aportar tus ideas o participar en alguno de los proyectos puedes hacer
 
 ## Contacto
 
-El principal canal de contacto es [nuestro canal de Telegram](https://t.me/rust-mx). Si no usas Telegram, puedes contactarnos a través de un [nuevo issue](https://github.com/rustmx/team/issues/new) en este repositorio.
+El principal canal de contacto es [nuestro canal de Telegram](https://t.me/rustmx). Si no usas Telegram, puedes contactarnos a través de un [nuevo issue](https://github.com/rustmx/team/issues/new) en este repositorio.
